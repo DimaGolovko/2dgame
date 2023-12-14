@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18cd9b03220ab3c42a6905fc8093655c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collectSound: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - defaultSprite: {instanceID: 0}
+  - collectedSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
